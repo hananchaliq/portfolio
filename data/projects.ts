@@ -93,7 +93,7 @@ export const projectsData: Project[] = [
   {
     title: "Tari Gawi",
     desc: "Web Tarian Gawi adalah platform informasi digital yang dirancang untuk memperkenalkan, melestarikan, dan mengedukasi masyarakat mengenai Tari Gawi—tarian adat tradisional khas suku Ende-Lio di Nusa Tenggara Timur (NTT).",
-    image: "/projects/tari-gawi.png",
+    image: "/projects/tarian-gawi.png",
     tech: "HTML",
     code: "https://github.com/hananchaliq/tarian-gawi",
     live: "https://tarian-gawi-ntt.vercel.app/",
